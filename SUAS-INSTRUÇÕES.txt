@@ -1,2 +1,14 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+
+
+AplicaÃ§Ã£o feita em Eclipse versÃ£o Mars
+
+Ponto de Entrada classe: jogoAmil
+
+NÃ£o iniciei o software com TDD, somente no final fiz alguns casos de testes para mostrar conhecimento.
+
+A aplicaÃ§Ã£o LÃª arquivos de Log e mostra o resultado no Console, a pasta jogo contÃ©m arquivos de teste utilizados.
+
+Diagrama de classe no arquivo: Class Diagram Teste Amil.jpeg
+
+
+
